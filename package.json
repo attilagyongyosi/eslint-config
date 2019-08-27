@@ -1,0 +1,15 @@
+{
+    "name": "@attilagyongyosi/eslint-config",
+    "version": "0.0.1",
+    "description": "Personal set of ESLint rules.",
+    "main": "index.js",
+    "author": "attilagyongyosi <attilagyongyosi0@gmail.com>",
+    "license": "MIT",
+    "keywords": [
+        "eslint",
+        "eslintconfig"
+    ],
+    "peerDependencies": {
+        "eslint": ">= 6"
+    }
+}

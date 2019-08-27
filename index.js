@@ -6,6 +6,7 @@ module.exports = {
         "array-bracket-spacing": [ "error", "always" ],
         "object-curly-spacing": [ "error", "always" ],
         "no-magic-numbers": [ "error", {
+            "ignore": [ 0, 1, -1 ],
             "ignoreArrayIndexes": true,
             "enforceConst": true
         } ],

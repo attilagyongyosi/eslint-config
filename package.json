@@ -5,10 +5,16 @@
     "main": "index.js",
     "author": "attilagyongyosi <attilagyongyosi0@gmail.com>",
     "license": "MIT",
+    "scripts": {
+        "lint": "eslint index.js"
+    },
     "keywords": [
         "eslint",
         "eslintconfig"
     ],
+    "devDependencies": {
+        "eslint": "6.5.1"
+    },
     "peerDependencies": {
         "eslint": ">= 6"
     }

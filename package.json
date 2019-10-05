@@ -1,6 +1,6 @@
 {
     "name": "@attilagyongyosi/eslint-config",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Personal set of ESLint rules.",
     "main": "index.js",
     "author": "attilagyongyosi <attilagyongyosi0@gmail.com>",
